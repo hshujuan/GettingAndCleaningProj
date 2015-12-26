@@ -17,11 +17,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## What are in this repository
-.CodeBook.md: information about raw and tidy data set 
-.README.md: this file
-.run_analysis.R: R script to transform raw data set in a tidy one
-.codebook.html 
-.codebook.pdf 
+CodeBook.md: information about raw and tidy data set.
+README.md: this file.
+run_analysis.R: R script to transform raw data set in a tidy one.
+codebook.html.
+codebook.pdf. 
 
 ##How to use these files
 •clone this repository
