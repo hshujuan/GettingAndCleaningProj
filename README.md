@@ -23,7 +23,7 @@ run_analysis.R: R script to transform raw data set in a tidy one
 codebook.html 
 codebook.pdf 
 
-##How to use the files
+##How to use these files
 •clone this repository
 •download raw data
 •unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
